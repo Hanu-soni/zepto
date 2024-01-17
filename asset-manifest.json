@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zepto/static/css/main.f855e6bc.css",
+    "main.js": "/zepto/static/js/main.0c745360.js",
+    "index.html": "/zepto/index.html",
+    "main.f855e6bc.css.map": "/zepto/static/css/main.f855e6bc.css.map",
+    "main.0c745360.js.map": "/zepto/static/js/main.0c745360.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0c745360.js"
+  ]
+}
