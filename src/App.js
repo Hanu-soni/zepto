@@ -1,6 +1,5 @@
 
 import './App.css';
-import Header from './components/header/Header';
 import Search from './components/Search/Search';
 
 function App() {
@@ -9,6 +8,7 @@ function App() {
     <div className="App">
       
       {/* Make a search input here.  */}
+      <h1 style={{marginTop:"5%"}} className='d-flex justify-content-center text-primary'>Pick Users</h1>
       <Search/>
 
       
